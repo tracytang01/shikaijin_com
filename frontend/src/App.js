@@ -24,9 +24,11 @@ function App() {
   return (
     <div className={classes.root}>
       <Typography variant="h1" className={classes.title}>
-        ladies and gentlement and friends
+        I'm Lingyi Tang
+  
       </Typography>
-      <Typography variant="h2">coming soon...</Typography>
+      <Typography variant="h2">Master of Management in Data Analytics Candidate </Typography>
+      <Typography variant="h5">University of Windsor </Typography>
 
       <Button
         size="large"
